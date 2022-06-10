@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayke</h1>
 <h3 align="center">Data Analyst Student</h3>
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Big Data & NoSQL**
 
 - 💬 Ask me about **C/C++, python and assembly**
 
