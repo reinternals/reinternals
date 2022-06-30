@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kayke</h1>
 <h3 align="center">Data Analyst Student</h3>
 
-- 🌱 I’m currently learning **Big Data & NoSQL**
+- 🌱 I’m currently learning **Cloud computing and Business inteligence**
 
-- 💬 Ask me about **C/C++, python and assembly**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **reinternals@gmail.com**
 
