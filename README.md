@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kayke</h1>
 <h3 align="center">Data Analyst Student</h3>
 
-- 🌱 I’m currently learning **Power BI and Business inteligence**
+- 🌱 I’m currently learning **Power BI and Business intelligence**
 
-- 💬 Ask me about **Oracle Database**
+- 💬 Ask me about **Business Intelligence**
 
 - 📫 How to reach me **reinternals@gmail.com**
 
