@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI and Business inteligence**
 
-- 💬 Ask me about **Databases Oracle, Python, C and C#**
+- 💬 Ask me about **Oracle Database**
 
 - 📫 How to reach me **reinternals@gmail.com**
 
