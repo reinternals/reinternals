@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Kayke</h1>
 <h3 align="center">Estudante de Banco de dados</h3>
 
-- 🌱 Estou estudando atualmente **Java**
+- 🌱 Atualmente estou estudando **Java**
 
 - 💬 Me pergunte sobre **C, Assembly, Python, Analise de dados e Linux**
 
