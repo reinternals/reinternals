@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kayke</h1>
-<h3 align="center">Data Analyst Student</h3>
+<h1 align="center">Olá 👋, Eu sou o Kayke</h1>
+<h3 align="center">Estudante de Banco de dados</h3>
 
-- 🌱 I’m currently learning **Power BI and Business intelligence**
+- 🌱 Estou estudando atualmente **Java**
 
-- 💬 Ask me about **Business Intelligence**
+- 💬 Me pergunte sobre **C, Assembly, Python, Analise de dados e Linux**
 
-- 📫 How to reach me **reinternals@gmail.com**
+- 📫 Como me encontrar **reinternals@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/reinternals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/reinternals" height="30" width="40" /></a>
 <a href="https://twitter.com/@reinternals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@reinternals" height="30" width="40" /></a>
