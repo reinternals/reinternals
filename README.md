@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **Java**
 
-- 💬 Me pergunte sobre **C, Assembly, Python, Analise de dados e Linux**
+- 💬 Me pergunte sobre **C, Assembly, Python, Analise de dados e Banco de Dados**
 
 - 📫 Como me encontrar **reinternals@gmail.com**
 
