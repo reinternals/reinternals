@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinternals" alt="reinternals" /></a> </p>
 
-- 🔭 I’m currently working on **simple 16-bit operating system**
+- 🔭 I’m currently working on **simple 32-bit operating system**
 
 - 🌱 I’m currently learning **Java and Power BI.**
 
