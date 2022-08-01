@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinternals" alt="reinternals" /></a> </p>
 
-- 🔭 I’m currently working on **Reint Revise (personal project)**
+- 🔭 I’m currently working on **Reint Revise (personal project).**
 
 - 🌱 I’m currently learning **Java and Power BI.**
 
