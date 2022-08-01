@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Power BI.**
 
-- 💬 Ask me about **Oracle Database, PLSQL and Data Analytics.**
+- 💬 Ask me about **Oracle Database, PLSQL and DataOps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
