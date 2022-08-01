@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinternals" alt="reinternals" /></a> </p>
 
-- 🔭 I’m currently working on **ReintOS**
+- 🔭 I’m currently working on **Reint Revise (pessoal project)**
 
 - 🌱 I’m currently learning **Java and Power BI.**
 
-- 💬 Ask me about **Oracle Database and PLSQL.**
+- 💬 Ask me about **Oracle Database, PLSQL and Data Analytics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
