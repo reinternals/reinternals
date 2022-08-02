@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Reint Revise (personal project).**
 
-- 🌱 I’m currently learning **Java and DataOps.**
+- 🌱 I’m currently learning **Java, BI and DataOps.**
 
 - 💬 Ask me about **Oracle Database, PLSQL and DataOps.**
 
