@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinternals" alt="reinternals" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/N2NC6">N2NC6<a>**
+- 🔭 I’m currently working on **RNT OPTMZD**
 
 - 🌱 I’m currently learning **Java, BI and DataOps.**
 
