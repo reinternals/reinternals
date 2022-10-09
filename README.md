@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinternals" alt="reinternals" /></a> </p>
 
-- 🌱 I’m currently learning **Java, BI and DataOps.**
+- 🌱 I’m currently learning **Angular and DataOps.**
 
 - 💬 Ask me about **Oracle Database, PLSQL and DataOps.**
 
